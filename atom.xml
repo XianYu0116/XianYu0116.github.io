@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XianYu0116.github.io</id>
     <title>一条咸鱼鸭！</title>
-    <updated>2020-11-07T12:15:11.794Z</updated>
+    <updated>2020-11-07T12:21:21.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XianYu0116.github.io"/>
     <link rel="self" href="https://XianYu0116.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-11-07T12:04:11.000Z</updated>
         <content type="html"><![CDATA[<p>如题目所示这是一条视频测试</p>
-<video src="https://f.video.weibocdn.com/JmbO5Oqdlx07HOCr9dfy01041204ozko0E020.mp4?label=mp4_1080p&template=1920x1080.25.0&trans_finger=706238e13862eac9158714b62b2988d4&media_id=4568645695897634&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=3ZoTIp&ab=966-g1,3370-g1&Expires=1604754729&ssig=sBo1IiS19e&KID=unistore,video"  width="900" height="500" controls="controls">
+<video src="https://f.video.weibocdn.com/JmbO5Oqdlx07HOCr9dfy01041204ozko0E020.mp4?label=mp4_1080p&template=1920x1080.25.0&trans_finger=706238e13862eac9158714b62b2988d4&media_id=4568645695897634&tp=8x8A3El:YTkl0eM8&us=0&ori=1&bf=2&ot=h&ps=3lckmu&uid=3ZoTIp&ab=966-g1,3370-g1&Expires=1604754729&ssig=sBo1IiS19e&KID=unistore,video"  width="300" height="240" controls="controls">
 Your browser does not support the video tag.
 </video>
 ]]></content>
