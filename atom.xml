@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://XianYu0116.github.io</id>
+    <id>https://xianyu.github.io</id>
     <title>一条咸鱼鸭！</title>
-    <updated>2020-11-07T11:25:44.570Z</updated>
+    <updated>2020-11-07T11:27:52.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://XianYu0116.github.io"/>
-    <link rel="self" href="https://XianYu0116.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xianyu.github.io"/>
+    <link rel="self" href="https://xianyu.github.io/atom.xml"/>
     <subtitle>世间好物不坚牢，彩云易散琉璃脆。</subtitle>
-    <logo>https://XianYu0116.github.io/images/avatar.png</logo>
-    <icon>https://XianYu0116.github.io/favicon.ico</icon>
+    <logo>https://xianyu.github.io/images/avatar.png</logo>
+    <icon>https://xianyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一条咸鱼鸭！</rights>
 </feed>
