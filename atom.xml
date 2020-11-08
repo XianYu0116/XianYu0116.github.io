@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XianYu0116.github.io</id>
     <title>一条咸鱼鸭！</title>
-    <updated>2020-11-07T13:00:42.750Z</updated>
+    <updated>2020-11-08T00:26:50.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XianYu0116.github.io"/>
     <link rel="self" href="https://XianYu0116.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://XianYu0116.github.io/images/avatar.png</logo>
     <icon>https://XianYu0116.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一条咸鱼鸭！</rights>
+    <entry>
+        <title type="html"><![CDATA[Showmore视频测试]]></title>
+        <id>https://XianYu0116.github.io/post/showmore-shi-pin-ce-shi/</id>
+        <link href="https://XianYu0116.github.io/post/showmore-shi-pin-ce-shi/">
+        </link>
+        <updated>2020-11-07T23:56:18.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<p>视频地址：<br>
+https://stszjl.aoscdn.com/app/showmore/transcoding/video/97fc72a8141787ff108287dc31014c13/opc0wvu.mp4?auth_key=1604798266-171937-274375-2926a21b3565b31e768d60bde4514b64&amp;Expires=1604798266</p>
+<p>代码例示：<br>
+<code>&lt;video src=&quot;https://stszjl.aoscdn.com/app/showmore/transcoding/video/97fc72a8141787ff108287dc31014c13/opc0wvu.mp4?auth_key=1604798266-171937-274375-2926a21b3565b31e768d60bde4514b64&amp;Expires=1604798266&quot; width=&quot;300&quot; height=&quot;240&quot; controls=&quot;controls&quot;&gt; This is OK! &lt;/video&gt;</code></p>
+<p>实际效果：<br>
+<video src="https://stszjl.aoscdn.com/app/showmore/transcoding/video/97fc72a8141787ff108287dc31014c13/opc0wvu.mp4?auth_key=1604798266-171937-274375-2926a21b3565b31e768d60bde4514b64&Expires=1604798266"  width="300" height="240" controls="controls"><br>
+This is OK!<br>
+</video></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[视频测试]]></title>
         <id>https://XianYu0116.github.io/post/shi-pin-ce-shi/</id>
